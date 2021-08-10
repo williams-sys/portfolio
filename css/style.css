@@ -232,9 +232,9 @@ a.active{
 .about-photo{
     width: 97%;
 }
-.about-txt{
-    width: 80%;
-}
+/*.about-txt{*/
+/*    width: 80%;*/
+/*}*/
 .skill{
     background-image: url("../img/skill-bg.png");
     background-position: center;
