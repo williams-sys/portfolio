@@ -275,7 +275,7 @@ a.active{
     box-shadow: 0 3px 1rem rgba(0, 0, 0, 0.23);
 }
 .work-bg{
-    background-image: url("../img/work-bg.svg");
+    background-image: url("../img/work-bg.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
